@@ -1,33 +1,153 @@
-- 👋 Hi, I am a full-stack web & app developer specializing in back-end development with python, php and javascript frameworks (django, node.js, Laravel), especially for blockchain based applications. 
-I am also proficient with front-end javascript frameworks like Angular, React.js and Vue.js.
-I have over 7 years of experience in these fields.
 
-- ✨Blockchain Development✨
-• Crypto Coins Exchange Development
-• ICO Development with Created Token ( Coin )
-• Smart-Contracts (Solidity, Truffle framework)
-• Build POW, POS , MN and Stable coins
-• Develop Stable coins ( USDT, TrueUSD, USDX etc.)
-• Token development (ERC20, ERC223, ERC721, ERC 1155)
-• NFT (Non Fungible Token) Marketplace
-• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
-• Ethereum based Dapps development
-• Sidechain/State channels development
-• Assembly code blocks integration
+<h2 font-weight="bold">𝐒ervices 𝐒𝐞𝐭</h2>
+<table>
+  <tr>
+    <td>
+      <img src="./image/bitoin.svg" width="100px"/>
+    </td>
+    <td>
+      <img src="./image/ethereum.svg" width="100px"/>
+    </td>
+    <td>
+      <img src="./image/stellar-cryptocurrency.svg" width="100px"/>
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100"/>
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="100"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    </td>
+    <td>
+      <img src="./image/vue.svg" width="100px"/>
+    </td>
+    <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
+    </td>
+  
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    </td>
+    <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+    </td>
+  
+  </tr>
+</table>
+<br/>
+<br>
 
-- 💞️Web development💞️
-• Javascript : Node.js, Express, React.Js, Angular.js, Vue.Js
-• Php : Laravel, Codeignitor
-• Python : Django, Flask
-• Ecommerce, Wordpress, Shopify
-• Database : Mysql, Mongodb, PostresSql, Sqlite
-• Docker, Git
-• Cloud : AWS, Azure, Google cloud
-• Web Scrapping, Python Selenium
+<div align="center"><h1 font-weight="bold">What Can I do?</h1></div>
 
-- 🌱Mobile development🌱
-• Java, Android development, SDK
-• Objective-C, Swift, iOS app development
-• React native, Xamarin
+## Senior Blockchain & Full Stack Development
+<div>
 
-Thanks for visiting my profile.
+### Building DAPP (smart contract Development, Defi Development, NFT MarketPlace).
+<br />
+  
+### Frontend Developing with React.js and Angular.js for Web Application, React Native for Mobile Application
+<br />
+
+### Backend Developing with Node.js(Express.js), PHP(Laravel).
+<br />
+  
+</div>
+<br />
